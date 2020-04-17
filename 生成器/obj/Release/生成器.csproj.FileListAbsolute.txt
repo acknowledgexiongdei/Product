@@ -1,0 +1,12 @@
+D:\C#\生成器\生成器\bin\Release\生成器.exe.config
+D:\C#\生成器\生成器\obj\Release\Interop.Shell32.dll
+D:\C#\生成器\生成器\obj\Release\生成器.csproj.ResolveComReference.cache
+D:\C#\生成器\生成器\bin\Release\生成器.exe
+D:\C#\生成器\生成器\bin\Release\生成器.pdb
+D:\C#\生成器\生成器\bin\Release\Interop.Shell32.dll
+D:\C#\生成器\生成器\obj\Release\生成器.Form1.resources
+D:\C#\生成器\生成器\obj\Release\生成器.Properties.Resources.resources
+D:\C#\生成器\生成器\obj\Release\生成器.csproj.GenerateResource.Cache
+D:\C#\生成器\生成器\obj\Release\生成器.exe
+D:\C#\生成器\生成器\obj\Release\生成器.pdb
+D:\C#\生成器\生成器\obj\Release\生成器.csprojResolveAssemblyReference.cache
